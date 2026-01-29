@@ -30,3 +30,7 @@ def evaluate_answer(req: EvaluationRequest):
     result = evaluate(prompt)
 
     return result
+
+@app.get("/")
+def home():
+    return {"message": "FastAPI running on Railway"}
