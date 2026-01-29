@@ -1,0 +1,173 @@
+{
+  "course_id": "course_001",
+  "course_title": "Professional Communication & Conflict Handling Scenarios",
+  "description": "A collection of real-world workplace and business communication scenarios for training, evaluation, and coaching.",
+  "provider": "EventPro Training Systems",
+  "total_events": 3,
+  "events": [
+    {
+      "event_id": "event_1",
+      "scenario_title": "Event Cancellation Request",
+      "description": "Handle a customer who needs to cancel an upcoming corporate event due to unforeseen circumstances.",
+      "context": {
+        "company": "EventPro",
+        "role": "Customer Service Representative",
+        "customer_state": "Stressed and apologetic"
+      },
+      "objective": [
+        "Show empathy",
+        "Guide through cancellation process",
+        "Explore alternatives"
+      ],
+      "segments": [
+        {
+          "segment_id": 1,
+          "customer_emotion": "Empathetic / Reassuring",
+          "ideal_tone": "Warm and understanding",
+          "customer_utterance": "I need to cancel our corporate dinner booked for December 15th due to budget cuts.",
+          "expected_response": "I completely understand, and please don’t worry about the short notice...",
+          "coaching_tip": "Start with empathy and reassurance."
+        },
+        {
+          "segment_id": 2,
+          "customer_emotion": "Appreciative / Helpful",
+          "ideal_tone": "Positive and consultative",
+          "customer_utterance": "It’s TechCorp Industries. We had about 150 guests confirmed.",
+          "expected_response": "Thank you for confirming. I can see your booking here...",
+          "coaching_tip": "Acknowledge their consideration and explore alternatives."
+        },
+        {
+          "segment_id": 3,
+          "customer_emotion": "Informative / Patient",
+          "ideal_tone": "Clear and supportive",
+          "customer_utterance": "The budget is the main issue. What alternatives do you have?",
+          "expected_response": "We could scale down the package or reschedule to an off-peak season...",
+          "coaching_tip": "Present clear options and let the customer choose."
+        },
+        {
+          "segment_id": 4,
+          "customer_emotion": "Enthusiastic / Confident",
+          "ideal_tone": "Upbeat and informative",
+          "customer_utterance": "What kind of discounts are we talking about?",
+          "expected_response": "We offer up to 25% off during off-peak months plus loyalty discounts...",
+          "coaching_tip": "Be specific with numbers to build trust."
+        },
+        {
+          "segment_id": 5,
+          "customer_emotion": "Warm / Accommodating",
+          "ideal_tone": "Friendly and conclusive",
+          "customer_utterance": "Let’s look at February dates.",
+          "expected_response": "I’ll send you available dates and revised pricing via email...",
+          "coaching_tip": "End with positive closure and next steps."
+        }
+      ]
+    },
+    {
+      "event_id": "event_2",
+      "scenario_title": "Product Launch Delay Due to Funding Uncertainty",
+      "description": "Handle a startup client delaying a product launch due to investor funding issues.",
+      "context": {
+        "company": "EventPro",
+        "role": "Customer Service Representative",
+        "emotional_progression": [
+          "Controlled",
+          "Assertive",
+          "Strategic"
+        ]
+      },
+      "objective": [
+        "Maintain control",
+        "Avoid confrontation",
+        "Guide client toward practical next steps"
+      ],
+      "segments": [
+        {
+          "segment_id": 1,
+          "customer_emotion": "Controlled / Serious",
+          "ideal_tone": "Professional and steady",
+          "customer_utterance": "We may need to delay the product launch.",
+          "expected_response": "Thank you for informing us. Let me review your booking details...",
+          "coaching_tip": "Match composed tone and establish control."
+        },
+        {
+          "segment_id": 2,
+          "customer_emotion": "Assertive",
+          "ideal_tone": "Calm and firm",
+          "customer_utterance": "Investors want us to pause all spending.",
+          "expected_response": "We can review postponement or restructuring options...",
+          "coaching_tip": "Stay solution-oriented without emotion."
+        },
+        {
+          "segment_id": 3,
+          "customer_emotion": "Challenging / Demanding",
+          "ideal_tone": "Neutral and confident",
+          "customer_utterance": "We can’t afford penalties.",
+          "expected_response": "We do have flexibility to adjust timelines...",
+          "coaching_tip": "Balance empathy with policy boundaries."
+        },
+        {
+          "segment_id": 4,
+          "customer_emotion": "Strategic / Negotiative",
+          "ideal_tone": "Collaborative",
+          "customer_utterance": "What would delaying to later this quarter look like?",
+          "expected_response": "We can shift the event and retain most arrangements...",
+          "coaching_tip": "End with clarity and partnership."
+        }
+      ]
+    },
+    {
+      "event_id": "event_3",
+      "scenario_title": "Addressing a Workplace Safety Violation",
+      "description": "Handle an employee who ignored mandatory safety procedures.",
+      "context": {
+        "company": "IronCore Manufacturing Ltd.",
+        "role": "Floor Supervisor",
+        "emotional_progression": [
+          "Defensive",
+          "Frustrated",
+          "Resistant",
+          "Cooperative"
+        ]
+      },
+      "objective": [
+        "Ensure safety compliance",
+        "De-escalate resistance",
+        "Guide corrective action"
+      ],
+      "segments": [
+        {
+          "segment_id": 1,
+          "employee_emotion": "Defensive",
+          "ideal_tone": "Firm but respectful",
+          "employee_utterance": "Those safety steps are unnecessary.",
+          "expected_response": "Safety procedures apply to everyone.",
+          "coaching_tip": "Acknowledge experience without conceding authority."
+        },
+        {
+          "segment_id": 2,
+          "employee_emotion": "Frustrated",
+          "ideal_tone": "Calm and authoritative",
+          "employee_utterance": "These rules slow down production.",
+          "expected_response": "Safety prevents bigger delays from injuries.",
+          "coaching_tip": "Reframe safety as protection."
+        },
+        {
+          "segment_id": 3,
+          "employee_emotion": "Resistant",
+          "ideal_tone": "Serious and controlled",
+          "employee_utterance": "Am I getting written up?",
+          "expected_response": "Continued violations can lead to formal action.",
+          "coaching_tip": "Be transparent without threats."
+        },
+        {
+          "segment_id": 4,
+          "employee_emotion": "Cooperative",
+          "ideal_tone": "Supportive and encouraging",
+          "employee_utterance": "I’ll follow the safety steps.",
+          "expected_response": "Let’s review the correct procedure together.",
+          "coaching_tip": "Reinforce positive commitment."
+        }
+      ]
+    }
+  ]
+}
